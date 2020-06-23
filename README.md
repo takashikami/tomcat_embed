@@ -11,6 +11,9 @@ See https://docs.gradle.org/6.1.1/userguide/command_line_interface.html#sec:comm
 
 BUILD SUCCESSFUL in 7s
 2 actionable tasks: 2 executed
+```
+
+```bash
 kami@SN11755W:~/workspace/tomcat_embed$ java -jar build/libs/tomcat_embed-1.0-SNAPSHOT.jar
 org.example.HelloServlet
 /tmp/tomcatBase
